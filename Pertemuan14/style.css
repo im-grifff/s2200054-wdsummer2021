@@ -1,0 +1,46 @@
+body {
+  background-color: #7d0633;
+}
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #f2a07b;
+  background-color: #31112c;
+  border-radius: 10px;
+  text-align: center;
+}
+
+h2 {
+  color: #ecdbba;
+  border-width: 7px;
+  border-style: solid;
+  border-color: #31112c;
+  text-align: center;
+  border-radius: 15px;
+}
+
+h3 {
+  color: #fbdcc4;
+}
+ol {
+  color: white;
+}
+
+ul {
+  color: white;
+}
+
+p {
+  color: whitesmoke;
+}
+
+table a {
+  color: rgb(0, 180, 180);
+}
+
+a {
+  color: chartreuse;
+}
+
+td {
+  color: whitesmoke;
+}
